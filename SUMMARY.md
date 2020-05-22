@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to Joho Lab](README.md)
+* [Members](members.md)
 

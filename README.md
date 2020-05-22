@@ -4,5 +4,5 @@ description: >-
   of Tsukuba, Japan
 ---
 
-# Welcome to Joho Lab
+# Welcome
 

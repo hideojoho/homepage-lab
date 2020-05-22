@@ -26,7 +26,7 @@
 
 * [Taiki Funakoshi](https://docs.joholab.com/taiki/)
 * [Kozue Ishikawa](https://docs.joholab.com/kozue/)
-* Kosuke Nagase
+* [Kosuke Nagase](https://docs.joholab.com/kosuke/)
 * Hayato Shirahama
 
 ## Alumni

@@ -13,7 +13,7 @@
 ### PhD Students
 
 * Jordan Trader
-* Yanpeng Lin
+* [Yanpeng Lin](https://docs.joholab.com/yanpeng/)
 
 ### Masters Students
 

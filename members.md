@@ -18,7 +18,7 @@
 ### Masters Students
 
 * [Yubo Fang](https://docs.joholab.com/yubo/)
-* Junichi Fuji
+* [Junichi Fuji](https://docs.joholab.com/junichi/)
 * [Zhuoqi Jin](https://docs.joholab.com/zhuoqi/)
 * [Reiyo Chou](https://docs.joholab.com/reiyo/)
 

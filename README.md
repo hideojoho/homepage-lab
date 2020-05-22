@@ -10,11 +10,13 @@ description: >-
 
 * No announcement
 
-## 💪Recent Activities
+## 🆕Recent Activities
 
 | Date | Activity |
 | :--- | :--- |
 | 📆2020.05.22 | Website renewed🎊  |
+
+## 🏷Contents
 
 {% page-ref page="members.md" %}
 

@@ -18,6 +18,8 @@ description: >-
 
 ## 🏷Contents
 
+{% page-ref page="about.md" %}
+
 {% page-ref page="members.md" %}
 
 

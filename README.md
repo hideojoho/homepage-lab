@@ -6,3 +6,17 @@ description: >-
 
 # Welcome
 
+## 📢Announcement
+
+* No announcement
+
+## 💪Recent Activities
+
+| Date | Activity |
+| :--- | :--- |
+| 📆2020.05.22 | Website renewed🎊  |
+
+{% page-ref page="members.md" %}
+
+
+

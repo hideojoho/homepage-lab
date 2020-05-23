@@ -1,6 +1,6 @@
 # Table of contents
 
 * [ようこそ](README.md)
-* [ナレッジベース](https://docs.joholab.com/kb/v/ja/)
+* [ナレッジベース](https://github.com/joholabhq/docs/tree/ja)
 * [Twitter](https://twitter.com/joholab_ja)
 

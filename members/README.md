@@ -29,3 +29,7 @@
 * [Kousuke Nagase](https://docs.joholab.com/kousuke/)
 * Hayato Shirahama
 
+{% page-ref page="alumni.md" %}
+
+
+

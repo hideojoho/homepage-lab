@@ -20,7 +20,7 @@ description: >-
 
 {% page-ref page="about.md" %}
 
-{% page-ref page="members.md" %}
+{% page-ref page="members/" %}
 
 
 

@@ -22,5 +22,3 @@ description: >-
 
 {% page-ref page="members/" %}
 
-
-

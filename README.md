@@ -10,7 +10,7 @@ description: >-
 
 * No announcement
 
-## 🆕Recent Activities
+## 🐾Recent Activities
 
 | Date | Activity |
 | :--- | :--- |

@@ -27,7 +27,7 @@
 * [Taiki Funakoshi](https://docs.joholab.com/taiki/)
 * [Kozue Ishikawa](https://docs.joholab.com/kozue/)
 * [Kousuke Nagase](https://docs.joholab.com/kousuke/)
-* Hayato Shirahama
+* [Hayato Shirahama](https://docs.joholab.com/hayato/)
 
 {% page-ref page="alumni.md" %}
 

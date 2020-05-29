@@ -2,6 +2,7 @@
 
 * [ようこそ](README.md)
 * [研究室について](nitsuite.md)
+* [メンバー](menb.md)
 * [ナレッジベース](https://github.com/hideojoho/kb/tree/ja)
 * [Twitter](https://twitter.com/joholab_ja)
 

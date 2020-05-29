@@ -15,4 +15,8 @@
 
 ## 博士前期課程
 
-* 
+* [金 琢奇](https://docs.joholab.com/zhuoqi/)
+* [張 麗蓉](https://docs.joholab.com/reiyo/)
+* [藤 順一](https://docs.joholab.com/junichi/)
+* [方 昱博](https://docs.joholab.com/yubo/)
+

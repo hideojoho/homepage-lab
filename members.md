@@ -20,3 +20,10 @@
 * [藤 順一](https://docs.joholab.com/junichi/)
 * [方 昱博](https://docs.joholab.com/yubo/)
 
+## 学類生
+
+* [石川 梢](https://docs.joholab.com/kozue/)
+* [長瀬 幸翼](https://docs.joholab.com/kousuke/)
+* [船越 大輝](https://docs.joholab.com/taiki/)
+* [白濱 隼人](https://docs.joholab.com/hayato/)
+

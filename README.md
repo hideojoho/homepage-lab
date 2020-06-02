@@ -20,3 +20,7 @@ description: 筑波大学で2009年発足以来、情報検索を中心に人間
 
 {% page-ref page="members/" %}
 
+{% page-ref page="collaboration.md" %}
+
+{% page-ref page="publications/" %}
+

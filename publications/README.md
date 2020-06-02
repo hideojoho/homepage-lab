@@ -1,4 +1,4 @@
-# 業績一覧
+# 業績
 
 ## 最近の発表論文
 
@@ -8,7 +8,11 @@
 * Ioannis Arapakis, Antonio Penta, Hideo Joho, and Luis A. Leiva. 2020. A Price-per-attention Auction Scheme Using Mouse Cursor Information. ACM Trans. Inf. Syst. 38, 2, Article 13 \(March 2020\), 30 pages. DOI:[https://doi.org/10.1145/3374210](https://doi.org/10.1145/3374210)
 * Hopfgartner F., Gurrin C., Joho H. \(2020\) Rethinking the Test Collection Methodology for Personal Self-tracking Data. In: Ro Y. et al. \(eds\) MultiMedia Modeling. MMM 2020. Lecture Notes in Computer Science, vol 11962. Springer, Cham. DOI:[https://doi.org/10.1007/978-3-030-37734-2\_38](https://doi.org/10.1007/978-3-030-37734-2_38)
 
+{% page-ref page="books.md" %}
+
 {% page-ref page="editorial.md" %}
+
+{% page-ref page="journal-papers.md" %}
 
 
 

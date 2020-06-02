@@ -1,5 +1,6 @@
 # 編集物
 
+* Johanne R. Trippas, Paul Thomas, Damiano Spina, and Hideo Joho. 2020. Third International Workshop on Conversational Approaches to Information Retrieval \(CAIR’20\): Full-day Workshop at CHIIR 2020. In Proceedings of the 2020 Conference on Human Information Interaction and Retrieval \(CHIIR ’20\). Association for Computing Machinery, New York, NY, USA, 492–494. DOI:[https://doi.org/10.1145/3343413.3378022](https://doi.org/10.1145/3343413.3378022)
 * Noriko Kando, Tetsuya Sakai, Hideo Joho, Hang Li, Arjen P. de Vries, Ryen W. White: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, Shinjuku, Tokyo, Japan, August 7-11, 2017. ACM 2017, ISBN 978-1-4503-5022-8
 * Hideo Joho, Lawrence Cavedon, Jaime Arguello, Milad Shokouhi, Filip Radlinski: First International Workshop on Conversational Approaches to Information Retrieval \(CAIR’17\). SIGIR 2017: 1423-1424
 * Heather L. O’Brien, Nicola Ferro, Hideo Joho, Dirk Lewandowski, Paul Thomas, Keith van Rijsbergen: System And User Centered Evaluation Approaches in Interactive Information Retrieval \(SAUCE 2016\). CHIIR 2016: 337-340

@@ -1,7 +1,8 @@
 # Table of contents
 
 * [ようこそ](README.md)
-* [研究室について](about.md)
+* [研究室について](about/README.md)
+  * [ウェブクローラについて](about/web-crawler.md)
 * [メンバー](members/README.md)
   * [過去のメンバー](members/alumni.md)
 * [コラボレーション](collaboration.md)

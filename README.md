@@ -16,7 +16,7 @@ description: 筑波大学で2009年発足以来、情報検索を中心に人間
 
 ## 🏷コンテンツ
 
-{% page-ref page="about.md" %}
+{% page-ref page="about/" %}
 
 {% page-ref page="members/" %}
 

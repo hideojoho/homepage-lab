@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [About](about.md)
+* [About](about/README.md)
+  * [Web Crawler](about/web-crawler.md)
 * [Members](members/README.md)
   * [Alumni](members/alumni.md)
 * [Collaboration](collaboration.md)

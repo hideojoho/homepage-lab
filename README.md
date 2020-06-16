@@ -18,7 +18,7 @@ description: >-
 
 ## 🏷Contents
 
-{% page-ref page="about.md" %}
+{% page-ref page="about/" %}
 
 {% page-ref page="members/" %}
 

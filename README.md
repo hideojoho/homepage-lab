@@ -32,5 +32,7 @@ description: >-
 
 {% page-ref page="members/" %}
 
+{% page-ref page="publications/" %}
+
 
 

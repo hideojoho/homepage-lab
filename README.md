@@ -8,7 +8,7 @@ description: >-
 
 ## 📢Announcement
 
-* Application to [Master's Program](https://eng.ap-graduate.tsukuba.ac.jp/course/chs/slis_first/) and [PhD Program](https://eng.ap-graduate.tsukuba.ac.jp/course/chs/slis_latter/) in Informatics at University of Tsukuba
+* Application to [Master's Program](https://eng.ap-graduate.tsukuba.ac.jp/course/chs/slis_first/) and [PhD Program](https://eng.ap-graduate.tsukuba.ac.jp/course/chs/slis_latter/) in Informatics at University of Tsukuba for 2021
   * For applications in Japanese
     * Application Period: 2020.09.01-2020.09.18
     * Entrance Examination: 2020.10.15 or 2020.10.16

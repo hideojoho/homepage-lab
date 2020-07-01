@@ -12,3 +12,5 @@ We are always looking for students who are interested in the research on human i
 
 {% page-ref page="../collaboration.md" %}
 
+{% page-ref page="../publications/" %}
+

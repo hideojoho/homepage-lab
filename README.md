@@ -6,7 +6,7 @@ description: 筑波大学で2009年発足以来、情報検索を中心に人間
 
 ## 📢お知らせ
 
-* 2021年度 [情報学学位プログラム](https://informatics.tsukuba.ac.jp/admission/examination/)の出願情報が発表されました
+* 2021年度 [情報学学位プログラム](https://informatics.tsukuba.ac.jp/admission/examination/)（博士前期・後期課程）の募集要項が発表
   * 10月期（日本語）
     * 出願期間：2020.09.01-2020.09.18
     * 試験日：2020.10.15-16

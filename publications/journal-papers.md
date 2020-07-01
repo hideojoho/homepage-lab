@@ -1,6 +1,6 @@
 # 査読付き論文誌
 
-* 永野 玄樹，上保 秀夫．情報探索行動に着目した津波避難プロセスの類型化．情報メディア研究．印刷中．
+* 永野 玄樹，上保 秀夫．情報探索行動に着目した津波避難プロセスの類型化．情報メディア研究．2020 年 19 巻 1 号 p. 29-46. [https://doi.org/10.11304/jims.19.29](https://doi.org/10.11304/jims.19.29)
 * Johanne R. Trippas, Damiano Spina, Paul Thomas, Mark Sanderson, Hideo Joho, Lawrence Cavedon, Towards a model for spoken conversational search, Information Processing & Management, Volume 57, Issue 2, 2020, 102162. DOI:[https://doi.org/10.1016/j.ipm.2019.102162](https://doi.org/10.1016/j.ipm.2019.102162.)
 * Ioannis Arapakis, Antonio Penta, Hideo Joho, and Luis A. Leiva. 2020. A Price-per-attention Auction Scheme Using Mouse Cursor Information. ACM Trans. Inf. Syst. 38, 2, Article 13 \(March 2020\), 30 pages. DOI:[https://doi.org/10.1145/3374210](https://doi.org/10.1145/3374210)
 *  Rahmi, R., Joho, H. and Shirai, T. \(2019\), An analysis of natural disaster‐related information‐seeking behavior using temporal stages. Journal of the Association for Information Science and Technology, 70: 715-728. doi:[10.1002/asi.24155](https://doi.org/10.1002/asi.24155)

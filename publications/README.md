@@ -16,5 +16,5 @@
 
 {% page-ref page="conferences.md" %}
 
-
+{% page-ref page="misc.md" %}
 

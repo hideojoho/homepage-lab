@@ -2,7 +2,7 @@
 
 ![At Christmas Lunch in Dec 2019](../.gitbook/assets/joholab201912.png)
 
-Joho Lab is established in 2009 and since then we have been working on a range of topics in Human Information Interaction with a strong focus on Information Retrieval and Information Seeking Behaviour.
+Joho Lab was established in 2009 and since then we have been working on a range of topics in Human Information Interaction with a strong focus on Information Retrieval and Information Seeking Behaviour.
 
 We are an international lab and have had visiting scholars, exchange students, and international students from U.S., Ireland, Germany, Tunisia, Bangladesh, Iran, Indonesia, and China. We also collaborate with the leading researchers all around the world.
 

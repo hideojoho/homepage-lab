@@ -14,5 +14,9 @@
 
 {% page-ref page="journal-papers.md" %}
 
+{% page-ref page="conferences.md" %}
+
+
+
 
 

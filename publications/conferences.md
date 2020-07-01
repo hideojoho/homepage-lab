@@ -2,6 +2,7 @@
 
 ## フルペーパー
 
+* Cathal Gurri, Hideo Joho, Frank Hopfgartner, Liting Zhou, Van-Tu Ninh, Tu-Khiem Le, Rami Albatal, Duc-Tien Dang-Nguyen, Graham Healy \(2019\) Advances in Lifelog Data Organisation and Retrieval at the NTCIR-14 Lifelog-3 Task. In: Kato M., Liu Y., Kando N., Clarke C. \(eds\) NII Testbeds and Community for Information Access Research. NTCIR 2019. Lecture Notes in Computer Science, vol 11966. Springer, Cham.
 * Johanne R. Trippas, Damiano Spina, Lawrence Cavedon, Hideo Joho and Mark Sanderson: Informing the Design of Spoken Conversational Search. CHIIR 2018: 32-41.
 * Sosuke Shiga, Hideo Joho, Roi Blanco, Johanne R. Trippas, Mark Sanderson: Modelling Information Needs in Collaborative Search Conversations. SIGIR 2017: 715-724
 * Hai-Tao Yu, Adam Jatowt, Roi Blanco, Hideo Joho, Joemon Jose, Long Chen, and Fajie Yuan: A Concise Integer Linear Programming Formulation for Implicit Search Result Diversification. WSDM 2017: 191-200

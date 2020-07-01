@@ -10,6 +10,7 @@
   * [Books](publications/books.md)
   * [Editorial](publications/editorial.md)
   * [Journals](publications/journal-papers.md)
+  * [Conferences](publications/conferences.md)
 * [Knowledge Base](https://github.com/hideojoho/kb/tree/en)
 * [Contact](https://docs.google.com/forms/d/e/1FAIpQLSfP1uvgCakWdX89eMo-Bi4ZapCULwVt2DB8VrrNPCGuelUTng/viewform)
 * [Twitter](https://twitter.com/joholab_en)

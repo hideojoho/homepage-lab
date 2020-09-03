@@ -22,6 +22,7 @@ description: >-
 
 | Date | Activity |
 | :--- | :--- |
+| 📆2020.09.03 | Added two publications in Books |
 | 📆2020.07.01 | Added 2021 application information |
 | 📆2020.05.22 | Website renewed🎊  |
 

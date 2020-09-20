@@ -10,6 +10,8 @@ description: >-
 
 * No Announcement
 
+{% page-ref page="archives/old-news.md" %}
+
 ## 🐾Recent Activities
 
 | Date | Activity |
@@ -17,6 +19,8 @@ description: >-
 | 📆2020.09.03 | Added two Book chapters in [Publications](publications/) |
 | 📆2020.07.01 | Added 2021 application information |
 | 📆2020.05.22 | Website renewed🎊  |
+
+{% page-ref page="archives/past-activities.md" %}
 
 ## 🏷Contents
 

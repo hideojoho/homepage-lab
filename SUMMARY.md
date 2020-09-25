@@ -2,6 +2,7 @@
 
 * [ようこそ](README.md)
 * [研究室について](about/README.md)
+  * [研究室ポスター](about/poster.md)
   * [ウェブクローラについて](about/web-crawler.md)
 * [メンバー](members/README.md)
   * [過去のメンバー](members/alumni.md)

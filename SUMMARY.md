@@ -2,6 +2,8 @@
 
 * [ようこそ](README.md)
 * [研究室について](about/README.md)
+  * [指導方針](about/supervision/README.md)
+    * [卒業研究指導方針](about/supervision/bachelor.md)
   * [研究室ポスター](about/poster.md)
   * [ウェブクローラについて](about/web-crawler.md)
 * [メンバー](members/README.md)

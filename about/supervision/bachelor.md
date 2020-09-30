@@ -162,6 +162,10 @@ description: 2021年度卒業研究の研究室配属
 {% endhint %}
 
 {% hint style="success" %}
+ユーザ実験、データ構築、データ解析、システム開発と何でもできるフルスタック研究室
+{% endhint %}
+
+{% hint style="success" %}
 研究開発スキルを高速で習得できる[研究室ナレッジベース](https://github.com/hideojoho/kb/tree/ja)が整備中
 {% endhint %}
 

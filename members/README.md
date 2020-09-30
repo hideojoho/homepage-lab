@@ -19,6 +19,7 @@
 * [張 麗蓉](https://docs.joholab.com/reiyo/)
 * [藤 順一](https://docs.joholab.com/junichi/)
 * [方 昱博](https://docs.joholab.com/yubo/)
+* 李 和雨
 
 ## 学類生
 

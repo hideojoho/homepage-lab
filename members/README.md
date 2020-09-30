@@ -20,6 +20,7 @@
 * [Reiyo Chou](https://docs.joholab.com/reiyo/)
 * [Yubo Fang](https://docs.joholab.com/yubo/)
 * [Junichi Fuji](https://docs.joholab.com/junichi/)
+* Heyu Li
 * [Zhuoqi Jin](https://docs.joholab.com/zhuoqi/)
 
 ### Bachelor Students

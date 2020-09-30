@@ -14,7 +14,7 @@ description: 筑波大学で2009年発足以来、情報検索を中心に人間
 
 | 日付 | 活動内容 |
 | :--- | :--- |
-| 📆2020.09.30 | [李さん](https://app.gitbook.com/@joholab/s/lab/v/ja/members)が博士前期課程として配属 |
+| 📆2020.09.30 | [李さん](https://docs.joholab.com/lab/v/ja/members)が博士前期課程として配属 |
 | 📆2020.09.25 | [研究室ポスター](about/poster.md)の掲載 |
 | 📆2020.09.08 | 10月期研究協力者募集の告知 |
 | 📆2020.09.03 | [業績](publications/) に著書を2件の追加  |

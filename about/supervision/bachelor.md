@@ -162,7 +162,7 @@ description: 2021年度卒業研究の研究室配属
 {% endhint %}
 
 {% hint style="success" %}
-ユーザ実験、データ構築、データ解析、システム開発と何でもできるフルスタック研究室
+ユーザ研究・データ研究・システム研究と何でもできるフルスタック研究室
 {% endhint %}
 
 {% hint style="success" %}

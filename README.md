@@ -16,6 +16,7 @@ description: >-
 
 | Date | Activity |
 | :--- | :--- |
+| 📆2020.09.30 | [Li](https://docs.joholab.com/lab/v/en/members) has joined the lab as an Master's student |
 | 📆2020.09.03 | Added two Book chapters in [Publications](publications/) |
 | 📆2020.07.01 | Added 2021 application information |
 | 📆2020.05.22 | Website renewed🎊  |

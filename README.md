@@ -6,6 +6,7 @@ description: 筑波大学で2009年発足以来、情報検索を中心に人間
 
 ## 📢お知らせ
 
+* [2021年度卒業研究指導方針](https://docs.joholab.com/lab/v/ja/about/supervision/bachelor)を公開しました！
 * [研究室ポスター](about/poster.md)を作成しました！
 
 {% page-ref page="archives/old-news.md" %}

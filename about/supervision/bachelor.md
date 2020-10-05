@@ -200,7 +200,7 @@ description: 2021年度卒業研究の研究室配属
 ### 面談手順
 
 1. [研究室ホームページ](https://docs.joholab.com/lab/v/ja/)や[ポスター](https://docs.joholab.com/lab/v/ja/about/poster)を一通り閲覧する
-2. [面談予約フォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=_V1bnp1m-E6yQEIpy_SoPfjq0NyONaBKktScdpUM5VFUQ05SNUJES0pLSTkyNTMwQkYxTUVDOVMxTSQlQCN0PWcu)を入力する（要 筑波大学Office365アカウント）
+2. [面談予約フォーム](https://forms.gle/NDuRM8bREB9TjgSB9)を入力する
 3. 面談日時をTeamsのチャット経由で受け取る
 4. 面談当日までに以下の内容について答えを準備しておく
    1. 興味関心のある研究テーマとその理由

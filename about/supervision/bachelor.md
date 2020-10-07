@@ -158,23 +158,18 @@ description: 2021年度卒業研究の研究室配属
 ### 研究室の特色
 
 {% hint style="success" %}
-20年以上の研究経験と[年間200回以上論文が引用される研究実績](https://scholar.google.com/citations?user=8W8gwisAAAAJ&hl=ja)をもつ教員が直接指導
+・独立と協力を両立する研究室メンバーとの距離感  
+・20年以上の研究経験と[年間200回以上論文が引用される実績](https://scholar.google.com/citations?user=8W8gwisAAAAJ&hl=ja)をもつ教員からの直接指導
 {% endhint %}
 
 {% hint style="success" %}
-ユーザ研究・データ研究・システム研究と何でもできるフルスタック研究室
+・ユーザ研究・データ研究・システム研究と何でもできるフルスタック研究室  
+・研究開発スキルを高速で習得できる[研究室ナレッジベース](https://github.com/hideojoho/kb/tree/ja)が整備中
 {% endhint %}
 
 {% hint style="success" %}
-研究開発スキルを高速で習得できる[研究室ナレッジベース](https://github.com/hideojoho/kb/tree/ja)が整備中
-{% endhint %}
-
-{% hint style="success" %}
-[Kubernetes](https://kubernetes.io/ja/docs/concepts/overview/what-is-kubernetes/)などの最先端環境を使った研究開発フローが経験できる
-{% endhint %}
-
-{% hint style="success" %}
-研究に必要な最新デバイスや大手企業が提供する非公開データや計算資源にもアクセス可
+・[Kubernetes](https://kubernetes.io/ja/docs/concepts/overview/what-is-kubernetes/)などの最先端環境を使った研究開発フローが経験できる  
+・研究に必要な最新デバイスや大手企業が提供する非公開データや計算資源にもアクセス可
 {% endhint %}
 
 ## 4. 受け入れの必須条件 <a id="4"></a>

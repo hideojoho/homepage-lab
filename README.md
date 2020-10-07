@@ -1,7 +1,8 @@
 ---
 description: >-
   Human Information Interaction and Information Retrieval Research at University
-  of Tsukuba, Japan, since 2009.
+  of Tsukuba, Japan, since 2009. Our mission is to create new user experiences
+  in information seeking and retrieval.
 ---
 
 # Welcome

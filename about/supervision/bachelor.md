@@ -164,7 +164,7 @@ description: 2021年度卒業研究の研究室配属
 
 {% hint style="success" %}
 ・ユーザ研究・データ研究・システム研究と何でもできるフルスタック研究室  
-・研究開発スキルを高速で習得できる[研究室ナレッジベース](https://github.com/hideojoho/kb/tree/ja)が整備中
+・研究開発スキルを高速で習得できる[研究室ナレッジベース](https://github.com/hideojoho/kb/tree/ja)の整備
 {% endhint %}
 
 {% hint style="success" %}

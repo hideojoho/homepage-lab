@@ -1,5 +1,6 @@
 # 編集物
 
+* Arampatzis, A., Kanoulas, E., Tsikrika, T., Vrochidis, S., Joho, H., Lioma, C., Eickhoff, C., Névéol, A., Cappellato, L., Ferro, N. \(Eds.\) \(2020\) "Experimental IR Meets Multilinguality, Multimodality, and Interaction: 11th International Conference of the CLEF Association, CLEF 2020, Thessaloniki, Greece, September 22–25, 2020, Proceedings", Vol. 12260, p. 399. Springer. [https://doi.org/10.1007/978-3-030-58219-7](https://doi.org/10.1007/978-3-030-58219-7)
 * Hopfgartner, F., Joho, H. and Gurrin, C. \(2020\), "Guest editorial", Online Information Review, Vol. 44 No. 2, pp. 477-481. [https://doi.org/10.1108/OIR-04-2020-39](https://doi.org/10.1108/OIR-04-2020-398)
 * Anand, A., Cavedon, L., Joho, H., Sanderson, M., and Stein, B. \(2020\). Conversational Search \(Dagstuhl Seminar 19461\). Dagstuhl Reports, 9\(11\), 34–83. [https://doi.org/10.4230/DagRep.9.11.34](https://doi.org/10.4230/DagRep.9.11.34)
 * Johanne R. Trippas, Paul Thomas, Damiano Spina, and Hideo Joho. 2020. Third International Workshop on Conversational Approaches to Information Retrieval \(CAIR’20\): Full-day Workshop at CHIIR 2020. In Proceedings of the 2020 Conference on Human Information Interaction and Retrieval \(CHIIR ’20\). Association for Computing Machinery, New York, NY, USA, 492–494. DOI:[https://doi.org/10.1145/3343413.3378022](https://doi.org/10.1145/3343413.3378022)

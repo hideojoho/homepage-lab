@@ -158,7 +158,7 @@ description: 2021年度卒業研究の研究室配属
 ### 研究室の特色
 
 {% hint style="success" %}
-・独立と協力を両立する研究室メンバーとの距離感  
+・独立と助け合いを両立する研究室メンバーとの距離感  
 ・20年以上の研究経験と[年間200回以上論文が引用される実績](https://scholar.google.com/citations?user=8W8gwisAAAAJ&hl=ja)をもつ教員からの直接指導
 {% endhint %}
 

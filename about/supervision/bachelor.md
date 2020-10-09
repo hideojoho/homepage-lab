@@ -236,6 +236,7 @@ description: 2021年度卒業研究の研究室配属
 
 * Teamsのチャット（joho.hideo.gb@u）
 * 研究室TwitterアカウントへのDM（[@joholab\_ja](https://twitter.com/joholab_ja)）
+* 🆕 [Twitter質問箱](https://twitter.com/joholab_ja/status/1314383297762402304?s=20)
 
 {% hint style="danger" %}
 面談希望者数などに関する質問には答えません。

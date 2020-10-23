@@ -9,7 +9,12 @@ description: >-
 
 ## 📢Announcement
 
-* No Announcement
+* Application to [Master's and PhD Program in Informatics](https://informatics.tsukuba.ac.jp/admission/examination/?lang=en) at University of Tsukuba for 2021
+  * For applicants in English
+    * Application Period: 2020.12.01-2020.12.18
+    * Entrance Examination: 2021.02.01 or 2021.02.02
+    * Enrollment: 2021.10.01
+  * Our lab is looking for students who are interested in Information Retrieval and Recommender Systems. Feel free to [contact us](https://docs.google.com/forms/d/e/1FAIpQLSfP1uvgCakWdX89eMo-Bi4ZapCULwVt2DB8VrrNPCGuelUTng/viewform) for the detail.
 
 {% page-ref page="archives/old-news.md" %}
 

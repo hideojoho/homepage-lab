@@ -5,7 +5,8 @@ description: 2021年度卒業研究の研究室配属
 # 卒業研究指導方針
 
 {% hint style="info" %}
-10/09 オープンラボに関する情報を更新しました！
+・10/30 今年度の受け付けは終了しました。  
+・10/09 オープンラボに関する情報を更新しました！
 {% endhint %}
 
 ## 1. 教員 <a id="1"></a>
@@ -203,7 +204,7 @@ description: 2021年度卒業研究の研究室配属
 ### 面談手順
 
 1. [研究室ホームページ](https://docs.joholab.com/lab/v/ja/)や[ポスター](https://docs.joholab.com/lab/v/ja/about/poster)を一通り閲覧する
-2. [面談予約フォーム](https://forms.gle/NDuRM8bREB9TjgSB9)を入力する
+2. [面談予約フォーム](https://forms.gle/NDuRM8bREB9TjgSB9)を入力する（受付終了）
 3. 面談日時をTeamsのチャット経由で受け取る
 4. 面談当日までに以下の内容について考えを準備しておいてください
    1. 興味関心のある研究テーマとその理由

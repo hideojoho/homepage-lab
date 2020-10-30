@@ -238,9 +238,9 @@ description: 2021年度卒業研究の研究室配属
 {% endhint %}
 
 * 研究室メンバーの研究内容を知りたい方
-  * 👉 [2020年09月に行われた合同研究発表会の動画](https://web.microsoftstream.com/channel/f1fadf34-802d-4dab-8101-c6ff22c45c34)
+  * 👉 [2020年09月に行われた合同研究発表会の動画](https://web.microsoftstream.com/channel/f1fadf34-802d-4dab-8101-c6ff22c45c34)（公開終了）
 * 研究室メンバーに研究室の様子を聞きたい方
-  * 👉 [Twitter質問箱](https://twitter.com/joholab_ja/status/1314383297762402304?s=20)
+  * 👉 [Twitter質問箱](https://twitter.com/joholab_ja/status/1314383297762402304?s=20)（受付終了）
 
 ### 問い合わせ
 
@@ -248,7 +248,7 @@ description: 2021年度卒業研究の研究室配属
 
 * Teamsのチャット（joho.hideo.gb@u）
 * 研究室TwitterアカウントへのDM（[@joholab\_ja](https://twitter.com/joholab_ja)）
-* 🆕[Twitter質問箱](https://twitter.com/joholab_ja/status/1314383297762402304?s=20)
+* 🆕[Twitter質問箱](https://twitter.com/joholab_ja/status/1314383297762402304?s=20)（受付終了）
 
 {% hint style="danger" %}
 面談希望者数などに関する質問には答えません。

@@ -1,5 +1,6 @@
 # 過去のお知らせ
 
+* [2021年度卒業研究指導方針](https://docs.joholab.com/lab/v/ja/about/supervision/bachelor)を公開しました！
 * [2020年10月期開発協力者](../cfp/dev/202010.md)（開発バイト）募集中
   * 応募締め切りは9/19です！
 * 2021年度 [情報学学位プログラム](https://informatics.tsukuba.ac.jp/admission/examination/)（博士前期・後期課程）の募集要項が発表

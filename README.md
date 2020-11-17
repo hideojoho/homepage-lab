@@ -7,6 +7,7 @@ description: >-
 
 ## 📢お知らせ
 
+* 2020年11月期実[験参加者募集中！](cfp/research/202011.md)
 * 2021年度 [情報学学位プログラム](https://informatics.tsukuba.ac.jp/admission/examination/)（[博士前期](https://www.ap-graduate.tsukuba.ac.jp/course/chs/slis_first/)・[後期課程](https://www.ap-graduate.tsukuba.ac.jp/course/chs/slis_latter/)）の2月期募集要項
   * 2月期（日本語・英語）
     * 出願期間：2020.12.01-2020.12.18

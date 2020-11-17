@@ -10,7 +10,7 @@
   * [過去のメンバー](members/alumni.md)
 * [協力者募集](cfp/README.md)
   * [調査協力](cfp/research/README.md)
-    * [実験協力者募集：2020年11月期](cfp/research/shi-yan-xie-li-zhe-mu-ji-2020-nian-11-yue-qi.md)
+    * [実験協力者募集：2020年11月期](cfp/research/202011.md)
   * [開発協力](cfp/dev/README.md)
     * [開発案件：2020年10月期](cfp/dev/202010.md)
     * [開発案件：2020年9月期](cfp/dev/202009.md)

@@ -29,6 +29,10 @@
 * [Kozue Ishikawa](https://docs.joholab.com/kozue/)
 * [Kousuke Nagase](https://docs.joholab.com/kousuke/)
 * [Hayato Shirahama](https://docs.joholab.com/hayato/)
+* Kodai Matsuda
+* Kota Onodera
+* Anna Sakai
+* Akine Suzuki
 
 {% page-ref page="alumni.md" %}
 

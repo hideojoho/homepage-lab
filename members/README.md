@@ -27,4 +27,8 @@
 * [長瀬 幸翼](https://docs.joholab.com/kousuke/)
 * [船越 大輝](https://docs.joholab.com/taiki/)
 * [白濱 隼人](https://docs.joholab.com/hayato/)
+* 小野寺 晃汰
+* 坂井 杏菜
+* 鈴木 晟子
+* 松田 興大
 

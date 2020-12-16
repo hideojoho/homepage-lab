@@ -1,7 +1,7 @@
 # 業績
 
 {% hint style="success" %}
-論文詳細は[上保研究室デジタルライブラリ](https://www.notion.so/83ac8b3d9f3b410c8a7837227a110ae0)をご覧ください。
+論文詳細は[上保研究室ディジタルライブラリ](https://www.notion.so/83ac8b3d9f3b410c8a7837227a110ae0)をご覧ください。
 {% endhint %}
 
 ## 最近の発表論文

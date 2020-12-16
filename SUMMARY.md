@@ -24,6 +24,7 @@
 * [アーカイブ](archives/README.md)
   * [過去のお知らせ](archives/old-news.md)
   * [過去の活動](archives/past-activities.md)
+* [ディジタルライブラリ](https://www.notion.so/83ac8b3d9f3b410c8a7837227a110ae0)
 * [ナレッジベース](https://github.com/hideojoho/kb/tree/ja)
 * [お問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSfP1uvgCakWdX89eMo-Bi4ZapCULwVt2DB8VrrNPCGuelUTng/viewform)
 * [Twitter](https://twitter.com/joholab_ja)

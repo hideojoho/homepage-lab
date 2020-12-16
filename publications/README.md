@@ -1,5 +1,9 @@
 # 業績
 
+{% hint style="success" %}
+論文詳細は[上保研究室デジタルライブラリ](https://www.notion.so/83ac8b3d9f3b410c8a7837227a110ae0)をご覧ください。
+{% endhint %}
+
 ## 最近の発表論文
 
 * Yoshioka M., Joho H. \(2021\) Temporal Information Access. In: Sakai T., Oard D., Kando N. \(eds\) Evaluating Information Retrieval and Access Tasks. The Information Retrieval Series, vol 43. Springer, Singapore. [https://doi.org/10.1007/978-981-15-5554-1\_9](https://doi.org/10.1007/978-981-15-5554-1_9)

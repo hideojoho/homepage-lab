@@ -7,14 +7,7 @@ description: >-
 
 ## 📢お知らせ
 
-* 🆘 2020年11月期 [実験参加者募集中](cfp/research/202011.md)！
-* 2021年度 [情報学学位プログラム](https://informatics.tsukuba.ac.jp/admission/examination/)（[博士前期](https://www.ap-graduate.tsukuba.ac.jp/course/chs/slis_first/)・[後期課程](https://www.ap-graduate.tsukuba.ac.jp/course/chs/slis_latter/)）の2月期募集要項
-  * 2月期（日本語・英語）
-    * 出願期間：2020.12.01-2020.12.18
-    * 試験日：2021.02.01-02
-    * 入学：2021.04.01（日本語）・2020.10.01（英語）
-  * 上保研究室では、情報検索や情報推薦に関心のある学生を広く募集しています。詳細は[お問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSfP1uvgCakWdX89eMo-Bi4ZapCULwVt2DB8VrrNPCGuelUTng/viewform)ください。
-* [研究室ポスター](about/poster.md)を作成しました！
+* 📆 2021.02.05 [研究室ディジタルライブラリー](https://www.notion.so/83ac8b3d9f3b410c8a7837227a110ae0)を公開しました！
 
 {% page-ref page="archives/old-news.md" %}
 
